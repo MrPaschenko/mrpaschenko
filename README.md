@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am currently studying Javascript and do my best doing practical tasks. Check it out in op-labs repo.
+I am currently studying JavaScript and do my best doing practical tasks. Check it out in op-labs repo.
 
 
 <!--
