@@ -1,4 +1,6 @@
 ### Hi there 👋
+I am currently studying Javascript and do my best doing practical tasks. Check it out in op-labs repo.
+
 
 <!--
 **MrPaschenko/mrpaschenko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
