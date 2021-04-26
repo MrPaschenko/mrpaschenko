@@ -1,7 +1,7 @@
 ### Hi there 👋
 I am currently studying JavaScript. Check out my repos.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPaschenko?theme=dark)]
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MrPaschenko&theme=dark)]
 
 
 <!--
