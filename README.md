@@ -16,6 +16,7 @@
 
 #### School and university projects:
 
+- [🌍 Personal Site](https://github.com/MrPaschenko/site) — HTML
 - [🧮 Pascal Calculator](https://github.com/MrPaschenko/lazarus-calculator) — Pascal
 - [🤖 Telegram Bot](https://github.com/MrPaschenko/lesia-ukraiinka-bot) — JavaScript, Node.js, Telegraf
 - [🏫 OP Exam](https://github.com/MrPaschenko/op-exams) — JavaScript, Node.js
