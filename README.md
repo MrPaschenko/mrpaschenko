@@ -4,6 +4,7 @@
 
 #### Personal projects:
 
+- [🎨 Paint App](https://github.com/MrPaschenko/Paint/tree/main) — Swift, SwiftUI
 - [📓 Notes App](https://github.com/MrPaschenko/Text-Editor) — Swift, SwiftUI
 - [🎓 Campus App](https://github.com/MrPaschenko/Campus) — Swift, SwiftUI, API
 - [🤖 Education Bot](https://github.com/MrPaschenko/mrpaschenko-bot) — JavaScript, Node.js, Telegraf
