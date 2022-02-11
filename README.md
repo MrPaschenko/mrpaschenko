@@ -24,6 +24,7 @@
 - [🧪 OP Labs](https://github.com/MrPaschenko/op-labs) — JavaScript, Node.js
 - [🧪 ASD Labs](https://github.com/MrPaschenko/asd-labs) — C
 - [🧪 OOP Labs](https://github.com/MrPaschenko/oop-labs) — Swift, SwiftUI
+- [✖️ CLI Quadratic Equation Solver](https://github.com/MrPaschenko/quadratic-equation-solver) — Swift
 
 #### Useful repositories:
 
