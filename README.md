@@ -25,6 +25,7 @@
 - [🧪 OP Labs](https://github.com/MrPaschenko/op-labs) — JavaScript, Node.js
 - [🧪 ASD Labs](https://github.com/MrPaschenko/asd-labs) — C
 - [🧪 OOP Labs](https://github.com/MrPaschenko/oop-labs) — Swift, SwiftUI
+- [🧪 SM Labs](https://github.com/MrPaschenko/sm-labs) — masm32
 
 #### Useful repositories:
 
