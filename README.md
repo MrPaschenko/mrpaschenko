@@ -7,7 +7,6 @@
 - [🎨 Paint App](https://github.com/MrPaschenko/Paint/tree/main) — Swift, SwiftUI
 - [📓 Notes App](https://github.com/MrPaschenko/Text-Editor) — Swift, SwiftUI
 - [🎓 Campus App](https://github.com/MrPaschenko/Campus) — Swift, SwiftUI, API
-- [✖️ CLI Quadratic Equation Solver](https://github.com/MrPaschenko/quadratic-equation-solver) — Swift
 - [🤖 Education Bot](https://github.com/MrPaschenko/mrpaschenko-bot) — JavaScript, Node.js, Telegraf
 
 #### Team projects:
@@ -26,6 +25,8 @@
 - [🧪 ASD Labs](https://github.com/MrPaschenko/asd-labs) — C
 - [🧪 OOP Labs](https://github.com/MrPaschenko/oop-labs) — Swift, SwiftUI
 - [🧪 SP Labs](https://github.com/MrPaschenko/sp-labs) — MASM
+- [✖️ CLI Quadratic Equation Solver](https://github.com/MrPaschenko/quadratic-equation-solver) — Swift
+- [🔗 Linked List](https://github.com/MrPaschenko/linked-list) — Swift
 
 #### Useful repositories:
 
