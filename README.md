@@ -4,6 +4,7 @@
 
 #### Personal projects:
 
+- [🗓 Schedule KPI App](https://github.com/MrPaschenko/Schedule-KPI) — Swift, UIKit, API
 - [🎨 Paint App](https://github.com/MrPaschenko/Paint/tree/main) — Swift, SwiftUI
 - [📓 Text Editor App](https://github.com/MrPaschenko/Text-Editor) — Swift, SwiftUI
 - [🎓 Campus App](https://github.com/MrPaschenko/Campus) — Swift, SwiftUI, API
