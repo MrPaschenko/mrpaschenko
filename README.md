@@ -1,4 +1,4 @@
-### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="24px" alt="Hi there!"> Hi there!
+### <img src="https://user-images.githubusercontent.com/1303154/88677602-1635ba80-d120-11ea-84d8-d263ba5fc3c0.gif" height="24px" width="24px" alt="Hi there!"> Hi there!
 
 #### I am iOS developer based in Kyiv, Ukraine.
 
