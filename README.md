@@ -26,6 +26,14 @@
 - [🧪 ASD Labs](https://github.com/MrPaschenko/asd-labs) — C
 - [🧪 OOP Labs](https://github.com/MrPaschenko/oop-labs) — Swift, SwiftUI
 - [🧪 SP Labs](https://github.com/MrPaschenko/sp-labs) — MASM
+- <details>
+  <summary>🧪 SEA Labs — Go</summary>
+  
+  1. [Git, http server](https://github.com/MrPaschenko/git-http-server)
+  2. [CI, tests](https://github.com/MrPaschenko/ci-tests)
+  3. [Event loop](https://github.com/MrPaschenko/event-loop)
+</details>
+
 - [✖️ CLI Quadratic Equation Solver](https://github.com/MrPaschenko/quadratic-equation-solver) — Swift
 - [🔗 Linked List](https://github.com/MrPaschenko/linked-list) — Swift
 
