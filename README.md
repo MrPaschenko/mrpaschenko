@@ -27,7 +27,7 @@
 - [🧪 OOP Labs](https://github.com/MrPaschenko/oop-labs) — Swift, SwiftUI
 - [🧪 SP Labs](https://github.com/MrPaschenko/sp-labs) — MASM
 - <details>
-  <summary>🧪 SEA Labs — Go</summary>
+  <summary>🧪 SA Labs — Go</summary>
   
   1. [Git, http server](https://github.com/MrPaschenko/git-http-server)
   2. [CI, tests](https://github.com/MrPaschenko/ci-tests)
