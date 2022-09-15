@@ -37,6 +37,13 @@
 - [✖️ CLI Quadratic Equation Solver](https://github.com/MrPaschenko/quadratic-equation-solver) — Swift
 - [🔗 Linked List](https://github.com/MrPaschenko/linked-list) — Swift
 
+#### Have contributed to:
+
+- [🌍 Schedule KPI Site](https://github.com/kpi-ua/schedule.kpi.ua)
+- [🤖 Schedule KPI Bot](https://github.com/kreslavskiy/Schedule-bot)
+- [🤖 KPI Radio Bot](https://github.com/SvineruS/kpi_radio_bot)
+- [🤖 KPI Schedule Bot](https://github.com/itkpi/kpi-schedule-bot)
+
 #### Useful repositories:
 
 - [📷 KPI Cameras](https://github.com/MrPaschenko/kpi-cameras) — links to cameras of KPI campus
