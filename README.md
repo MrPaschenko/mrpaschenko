@@ -21,6 +21,8 @@
 - [🌍 Personal Site](https://github.com/MrPaschenko/site) — HTML
 - [🧮 Pascal Calculator](https://github.com/MrPaschenko/lazarus-calculator) — Pascal
 - [🤖 Telegram Bot](https://github.com/MrPaschenko/lesia-ukraiinka-bot) — JavaScript, Node.js, Telegraf
+- [✖️ CLI Quadratic Equation Solver](https://github.com/MrPaschenko/quadratic-equation-solver) — Swift
+- [🔗 Linked List](https://github.com/MrPaschenko/linked-list) — Swift
 - [🏫 OP Exam](https://github.com/MrPaschenko/op-exams) — JavaScript, Node.js
 - [🧪 OP Labs](https://github.com/MrPaschenko/op-labs) — JavaScript, Node.js
 - [🧪 ASD Labs](https://github.com/MrPaschenko/asd-labs) — C
@@ -33,9 +35,6 @@
   2. [CI, tests](https://github.com/MrPaschenko/ci-tests)
   3. [Event loop](https://github.com/MrPaschenko/event-loop)
 </details>
-
-- [✖️ CLI Quadratic Equation Solver](https://github.com/MrPaschenko/quadratic-equation-solver) — Swift
-- [🔗 Linked List](https://github.com/MrPaschenko/linked-list) — Swift
 
 #### Have contributed to:
 
