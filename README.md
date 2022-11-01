@@ -25,6 +25,7 @@
 - [🔗 Linked List](https://github.com/MrPaschenko/linked-list) — Swift
 - [🏫 OP Exam](https://github.com/MrPaschenko/op-exams) — JavaScript, Node.js
 - [🧪 OP Labs](https://github.com/MrPaschenko/op-labs) — JavaScript, Node.js
+- [🧪 AD Labs](https://github.com/MrPaschenko/ad-labs) — Python
 - [🧪 ASD Labs](https://github.com/MrPaschenko/asd-labs) — C
 - [🧪 OOP Labs](https://github.com/MrPaschenko/oop-labs) — Swift, SwiftUI
 - [🧪 SP Labs](https://github.com/MrPaschenko/sp-labs) — MASM32
